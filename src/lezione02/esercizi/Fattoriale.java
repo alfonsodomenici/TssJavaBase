@@ -3,19 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lezione1;
-
-import javax.swing.JOptionPane;
+package lezione02.esercizi;
 
 /**
- *
+ *Legge un numero in input e stampa il suo fattoriale
+ * 
  * @author tss
  */
-public class Main {
+public class Fattoriale {
+    
     
     public static void main(String[] args) {
-        System.out.println("primo software started....");
-        String frase = JOptionPane.showInputDialog("Inserisci la frase da stampare");
-        System.out.println(frase);
+        
     }
 }

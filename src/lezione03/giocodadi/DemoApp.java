@@ -13,6 +13,7 @@ public class DemoApp {
 
     public static void main(String[] args) {
 
+        
         //Creo oggetto giocatore
         Giocatore g = new Giocatore("Rossi", 100);
         //Creo oggetti dado, uno per il giocatore ed uno per il banco

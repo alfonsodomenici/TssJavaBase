@@ -25,6 +25,8 @@ public class DemoEquals {
         persone[0] = a;
         persone[1] = p;
 
+        //DemoEquals demo = new DemoEquals();
+        //int risultato =demo.cerca(persone, daCercare);
         int risultato = cerca(persone, daCercare);
         System.out.println(risultato);
         
